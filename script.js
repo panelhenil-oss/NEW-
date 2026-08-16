@@ -7,7 +7,7 @@
    Example:
    const NEW_LINK = "https://example.com/latest-script";
    ============================================================ */
-const NEW_LINK = "https://work.ink/2RDH/best-1-speed-keyboard-escape-top-script-auto-farm";
+const NEW_LINK = "https://lootdest.org/s?ppWxZ3V2";
 /* ============================================================
    DO NOT EDIT BELOW THIS LINE
    ============================================================ */
