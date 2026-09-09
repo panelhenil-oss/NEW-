@@ -7,7 +7,7 @@
    Example:
    const NEW_LINK = "https://example.com/latest-script";
    ============================================================ */
-const NEW_LINK = "https://link-hub.net/1239053/MRN79OfZnPnU";
+const NEW_LINK = "https://link-hub.net/1258318/Vr7ey6u4J0zZ";
 /* ============================================================
    DO NOT EDIT BELOW THIS LINE
    ============================================================ */
