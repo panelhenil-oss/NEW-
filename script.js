@@ -5,7 +5,7 @@
    ========================================================== */
 const CONFIG = {
   // Link to your profile (Instagram / TikTok / YouTube / Discord...)
-  followUrl: "https://www.snapchat.com/add/artisticheart1?share_id=nfRp96xl-GM&locale=sr-Latn-RS",
+  followUrl: "https://www.tiktok.com/@artisticheart?_r=1&_t=ZS-9AWRkd2ZNdU",
   followLabel: "Follow Me",
 
   // Link to the video you want watched & liked
