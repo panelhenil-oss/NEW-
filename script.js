@@ -5,11 +5,11 @@
    ========================================================== */
 const CONFIG = {
   // Link to your profile (Instagram / TikTok / YouTube / Discord...)
-  followUrl: "https://youtube.com/@pelimenmod?si=vf-nC-JGbrJl80ES",
+  followUrl: "https://www.snapchat.com/add/artisticheart1?share_id=nfRp96xl-GM&locale=sr-Latn-RS",
   followLabel: "Follow Me",
 
   // Link to the video you want watched & liked
-  videoUrl: "https://youtu.be/dfpSUBsLc8g?si=jLZvowFhE8NUgHYE",
+  videoUrl: "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnVyYWVxcWN0AaEyX9-nAaEyX9-WAAAAAw?share_id=9lbfiqVL_Jw&locale=sr-Latn-RS",
   videoLabel: "Watch & Like",
 
   // The REAL link that gets unlocked (only revealed after both steps are done)
