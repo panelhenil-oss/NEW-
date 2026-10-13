@@ -9,7 +9,7 @@ const CONFIG = {
   followLabel: "Follow Me",
 
   // Link to the video you want watched & liked
-  videoUrl: "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYnVyYWVxcWN0AaEyX9-nAaEyX9-WAAAAAw?share_id=9lbfiqVL_Jw&locale=sr-Latn-RS",
+  videoUrl: "https://www.tiktok.com/@artisticheart/video/7695955335160319253?_r=1&_t=ZS-9AWRLxEJXj2",
   videoLabel: "Watch & Like",
 
   // The REAL link that gets unlocked (only revealed after both steps are done)
