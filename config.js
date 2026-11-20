@@ -4,7 +4,7 @@
    ========================================================== */
 window.SITE_CONFIG = {
   "type": "hub",
-  "version": "c85e6ce5",
+  "version": "67372812",
   "site": {
     "brand": "BEST SCRIPT ",
     "menuSubtitle": "Choose your game to get the latest scripts.",
@@ -48,6 +48,18 @@ window.SITE_CONFIG = {
         {
           "title": "NO KEY SCRIPT",
           "code": "loadstring(game:HttpGet(\"https://flowauth.net/v1/loaders/Aqua-Hub.lua\"))()"
+        }
+      ]
+    },
+    {
+      "id": "throw-food-for-animals",
+      "name": "Throw Food For Animals",
+      "subtitle": "Here you can find the latest scripts.",
+      "icon": "images/throw-food-for-animals-88969bdd.webp",
+      "scripts": [
+        {
+          "title": "NO KEY SCRIPT",
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/caubebietbuon/Misozz/main/Adonis.lua\"))()"
         }
       ]
     }
